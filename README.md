@@ -24,6 +24,6 @@ Work in progress
 
 Work in progress
 
-# Contributing
+# Contributi
 
-Work in progress
+Wsdfasdfasdfork in progress
